@@ -25,7 +25,7 @@ experience:
   - title: Senior Data and BI Analyst
     company: Monjuá
     company_url: ''
-    company_logo: org-gc
+    company_logo: monjua
     location: Porto Alegre, Rio Grande do Sul - Brazil
     date_start: '2024-03-01'
     date_end: ''
@@ -53,7 +53,7 @@ experience:
   - title: Senior Data and BI Analyst
     company: Data Mundo
     company_url: ''
-    company_logo: org-gc
+    company_logo: datamundo
     location: Porto Alegre, Rio Grande do Sul - Brazil
     date_start: '2024-01-01'
     date_end: ''
@@ -76,7 +76,7 @@ experience:
   - title: Data and BI Analyst
     company: Centrosul Transports and Logistics
     company_url: ''
-    company_logo: org-gc
+    company_logo: cst
     location: Porto Alegre, Rio Grande do Sul - Brazil
     date_start: '2018-01-01'
     date_end: '2023-12-01'
