@@ -47,7 +47,14 @@ item:
     organization_url: 
     title: SQL
     url:
-    logo_url: datamundo
+  - certificate_url: https://conquerplus.com.br/certificates/f2b3fc7f-669c-42e6-9428-f5b838fe8df6
+    date_end: ''
+    date_start: '2024-06-24'
+    description: 
+    organization: Conquer
+    organization_url: 
+    title: Artificial Intelligence
+    url:
 
 design:
   columns: '1'
