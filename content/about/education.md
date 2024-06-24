@@ -28,7 +28,7 @@ experience:
     company_logo: ufrgs
     location: Rio Grande do Sul
     date_start: '2023-01-01'
-    date_end: '2023-01-01'
+    date_end: '2023-12-01'
     description: 
 
   - title: Bachelor of Civil Engineering
