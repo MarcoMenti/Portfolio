@@ -25,7 +25,7 @@ experience:
   - title: Bachelor of Civil Engineering
     company: University X
     company_url: ''
-    company_logo: org-x
+    company_logo: static/uploads/pucrs.jpg
     location: Rio Grande do Sul
     date_start: '2017-01-01'
     date_end: '2022-01-01'
