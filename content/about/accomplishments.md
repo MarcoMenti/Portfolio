@@ -46,7 +46,8 @@ item:
     organization: Data Mundo
     organization_url: 
     title: SQL
-    url: 
+    url:
+    logo_url: datamundo
 
 design:
   columns: '1'
