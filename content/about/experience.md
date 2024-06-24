@@ -26,7 +26,7 @@ experience:
     company: Monjuá
     company_url: ''
     company_logo: monjua
-    location: Porto Alegre, Rio Grande do Sul - Brazil
+    location: 
     date_start: '2024-03-01'
     date_end: ''
     description: |2-
@@ -54,7 +54,7 @@ experience:
     company: Data Mundo
     company_url: ''
     company_logo: datamundo
-    location: Porto Alegre, Rio Grande do Sul - Brazil
+    location: 
     date_start: '2024-01-01'
     date_end: ''
     description: |2-
@@ -77,7 +77,7 @@ experience:
     company: Centrosul Transports and Logistics
     company_url: ''
     company_logo: cst
-    location: Porto Alegre, Rio Grande do Sul - Brazil
+    location: 
     date_start: '2018-01-01'
     date_end: '2023-12-01'
     description: |2-

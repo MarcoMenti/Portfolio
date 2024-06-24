@@ -22,8 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Master in Engineering
+    company: Federal University of Rio Grande do Sul
+    company_url: ''
+    company_logo: ufrgs
+    location: Rio Grande do Sul
+    date_start: '2023-01-01'
+    date_end: '2023-01-01'
+    description: 
+
   - title: Bachelor of Civil Engineering
-    company: University X
+    company: Pontifical Catholic University of Rio Grande do Sul
     company_url: ''
     company_logo: pucrs
     location: Rio Grande do Sul
