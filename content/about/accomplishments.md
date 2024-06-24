@@ -28,7 +28,8 @@ item:
     date_start: '2024-01-29'
     description: ''
     organization: Data Mundo
-    organization_url: 
+    organization_url:
+    organization_logo: datamundo 
     title: Power BI for Business
     url: ''
   - certificate_url: https://datamundo.curseduca.pro/verify/b1ae1f2a8889e687ccb3b6ccfa047fa8dcb4ee91
@@ -36,7 +37,8 @@ item:
     date_start: '2024-01-15'
     description: 
     organization: Data Mundo
-    organization_url: 
+    organization_url:
+    organization_logo: datamundo  
     title: Excel
     url: 
   - certificate_url: https://datamundo.curseduca.pro/verify/cd69c815a33241cd836b8390e2e0cffafe3db5ad
@@ -45,6 +47,7 @@ item:
     description: 
     organization: Data Mundo
     organization_url: 
+    organization_logo: datamundo 
     title: SQL
     url: 
 
