@@ -28,25 +28,25 @@ item:
     date_start: '2024-01-29'
     description: ''
     organization: Data Mundo
-    organization_url:
+    organization_url: https://datamundo.curseduca.pro
     title: Power BI for Business
-    url: 'https://datamundo.curseduca.pro'
+    url: 
   - certificate_url: https://datamundo.curseduca.pro/verify/b1ae1f2a8889e687ccb3b6ccfa047fa8dcb4ee91
     date_end: ''
     date_start: '2024-01-15'
     description: 
     organization: Data Mundo
-    organization_url: 
+    organization_url: https://datamundo.curseduca.pro
     title: Excel
-    url: 'https://datamundo.curseduca.pro'
+    url: 
   - certificate_url: https://datamundo.curseduca.pro/verify/cd69c815a33241cd836b8390e2e0cffafe3db5ad
     date_end: ''
     date_start: '2024-02-21'
     description: 
     organization: Data Mundo
-    organization_url: 
+    organization_url: https://github.com/MarcoMenti/Portfolio/blob/736d046fca08b4ad69bb224c18e85044d680c93f/assets/media/icons/brands/datamundo.svg
     title: SQL
-    url: 'https://datamundo.curseduca.pro'
+    url: 
 
 design:
   columns: '1'
