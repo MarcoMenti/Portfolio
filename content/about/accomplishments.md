@@ -23,30 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
+  - certificate_url: https://datamundo.curseduca.pro/verify/a281f2bcdbcb94615213186fd5656c1486748dee
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2024-01-29'
     description: ''
-    organization: 
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+    organization: Data Mundo
     organization_url: 
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    title: Power BI for Business
+    url: 
+  - certificate_url: https://datamundo.curseduca.pro/verify/b1ae1f2a8889e687ccb3b6ccfa047fa8dcb4ee91
+    date_end: ''
+    date_start: '2024-01-15'
+    description: 
+    organization: Data Mundo
+    organization_url: 
+    title: Excel
+    url: 
+  - certificate_url: https://datamundo.curseduca.pro/verify/cd69c815a33241cd836b8390e2e0cffafe3db5ad
+    date_end: ''
+    date_start: '2024-02-21'
+    description: 
+    organization: Data Mundo
+    organization_url: 
+    title: SQL
+    url:
+    logo_url: datamundo
 
 design:
   columns: '1'
