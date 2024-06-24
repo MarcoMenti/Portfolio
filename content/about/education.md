@@ -29,8 +29,8 @@ experience:
     location: Rio Grande do Sul
     date_start: '2017-01-01'
     date_end: '2022-01-01'
-    description: |2-
-        * Dissertation on Y
+    description: 
+        
 
 
 design:

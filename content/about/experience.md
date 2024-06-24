@@ -30,24 +30,24 @@ experience:
     date_start: '2024-03-01'
     date_end: ''
     description: |2-
-        *Data analysis, statistical modeling, machine
+        * Data analysis, statistical modeling, machine
         learning (Python and R);
-        *Large-scale data processing (Spark);
-        *Building and training deep learning models
+        * Large-scale data processing (Spark);
+        * Building and training deep learning models
         (TensorFlow/PyTorch);
-        *Creation and management of containers
+        * Creation and management of containers
         (Docker);
-        *Interactive environment for code and data
+        * Interactive environment for code and data
         visualization (Jupyter Notebooks);
-        *Advanced tools for data visualization and BI
+        * Advanced tools for data visualization and BI
         (Tableau & Power BI);
-        *Orchestration of workflows and data pipelines
+        * Orchestration of workflows and data pipelines
         (Airflow);
-        *Statistical analyses, business intelligence (BI),
+        * Statistical analyses, business intelligence (BI),
         KPIs/OKRs;
-        *Task prioritization and agile methodologies
+        * Task prioritization and agile methodologies
         (Scrum);
-        *Skilled in Docker and experience with ETL/Data
+        * Skilled in Docker and experience with ETL/Data
         Warehouse (MS SQL and Azure).
 
   - title: Senior Data and BI Analyst
@@ -58,20 +58,20 @@ experience:
     date_start: '2024-01-01'
     date_end: ''
     description: |2-
-        *Understanding of issues together with the
+        * Understanding of issues together with the
         business area;
-        *Task prioritization and agile methodologies
+        * Task prioritization and agile methodologies
         (Scrum);
-        *Prototyping (Figma, Excel);
-        *Data Mapping;
-        *ETL (Pentaho, SSIS, SQL);
-        *Dashboard Development (Power BI, Tableau, Data
+        * Prototyping (Figma, Excel);
+        * Data Mapping;
+        * ETL (Pentaho, SSIS, SQL);
+        * Dashboard Development (Power BI, Tableau, Data
         Studio);
-        *Development of indicators (KPIs and OKRs);
-        *Validation;
-        *Documentation and creation of usability manuals
+        * Development of indicators (KPIs and OKRs);
+        * Validation;
+        * Documentation and creation of usability manuals
         for Dashboards;
-        *GDPL and Gamification.
+        * GDPL and Gamification.
 
   - title: Data and BI Analyst
     company: Centrosul Transports and Logistics
@@ -81,11 +81,11 @@ experience:
     date_start: '2018-01-01'
     date_end: '2023-12-01'
     description: |2-
-        *Optimized routes reducing fuel costs by 13%;
-        *Created Dashboards for the board of directors;
-        *Developed and monitored KPIs related to the
+        * Optimized routes reducing fuel costs by 13%;
+        * Created Dashboards for the board of directors;
+        * Developed and monitored KPIs related to the
         efficiency of storage in warehouses;
-        *Azure DevOps, PowerBI, R, Python and others.
+        * Azure DevOps, PowerBI, R, Python and others.
 
 
 design:
