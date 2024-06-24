@@ -63,9 +63,9 @@ social:
   # link: "CV_MARCO MENTI_SR DATA ANALYST".pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "maarco.menti@gmail.com"
+email: "maarco.menti@gmail.com+portfolio"
 ---
 
 I am a data analyst passionate about uncovering powerful insights that drive growth and enhance customer experience. I specialize in turning complex analyses into effective marketing strategies, always with the goal of generating significant results. What sets me apart? My ability to communicate complex ideas in a simple and direct way, making data not just understandable, but also actionable for everyone in the company. Colleagues and partners value my straightforward and uncomplicated approach, highlighting it as one of my greatest strengths. I am here to make a difference, transforming data into smart decisions that lead to business success.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_MARCO MENTI_SR DATA ANALYST.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
