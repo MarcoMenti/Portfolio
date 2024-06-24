@@ -30,7 +30,7 @@ item:
     organization: Data Mundo
     organization_url:
     title: Power BI for Business
-    url: 'https://github.com/MarcoMenti/Portfolio/blob/c541ca5d6ce0ac1a380bcca27512175c807abe13/assets/media/icons/brands/datamundo.svg'
+    url: 'https://datamundo.curseduca.pro'
   - certificate_url: https://datamundo.curseduca.pro/verify/b1ae1f2a8889e687ccb3b6ccfa047fa8dcb4ee91
     date_end: ''
     date_start: '2024-01-15'
@@ -38,7 +38,7 @@ item:
     organization: Data Mundo
     organization_url: 
     title: Excel
-    url: 'https://github.com/MarcoMenti/Portfolio/blob/c541ca5d6ce0ac1a380bcca27512175c807abe13/assets/media/icons/brands/datamundo.svg'
+    url: 'https://datamundo.curseduca.pro'
   - certificate_url: https://datamundo.curseduca.pro/verify/cd69c815a33241cd836b8390e2e0cffafe3db5ad
     date_end: ''
     date_start: '2024-02-21'
@@ -46,7 +46,7 @@ item:
     organization: Data Mundo
     organization_url: 
     title: SQL
-    url: 'https://github.com/MarcoMenti/Portfolio/blob/c541ca5d6ce0ac1a380bcca27512175c807abe13/assets/media/icons/brands/datamundo.svg'
+    url: 'https://datamundo.curseduca.pro'
 
 design:
   columns: '1'
