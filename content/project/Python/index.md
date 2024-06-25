@@ -1,5 +1,5 @@
 ---
-title: Recommendation Systems
+title: Python
 summary: Write about your project here...
 tags:
   - Python

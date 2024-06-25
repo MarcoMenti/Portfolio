@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: APIs
 summary: Write about your project here...
 tags:
   - API

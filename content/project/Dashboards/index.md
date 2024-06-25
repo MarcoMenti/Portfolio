@@ -1,5 +1,5 @@
 ---
-title: Cartoon Face Generator
+title: Dashboards
 summary: Write about your project here...
 tags:
   - Dashboards
