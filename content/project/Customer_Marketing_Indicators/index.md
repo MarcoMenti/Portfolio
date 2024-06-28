@@ -46,4 +46,4 @@ The Customer Marketing Indicators dashboard provides an in-depth analysis of cus
 This dashboard is an essential tool for marketing managers, enabling detailed and practical analysis of customer data. It helps identify patterns, predict trends, and make strategic decisions to enhance customer engagement and optimize marketing efforts.
 
 
-Check out the [Dashboard](dashboard.pdf)!
+<a href="dashboard.pdf" target="_blank">View Dashboard</a>

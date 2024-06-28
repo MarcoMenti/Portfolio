@@ -44,4 +44,4 @@ The Good Morning Managers Indicators dashboard provides a comprehensive and real
 This dashboard is an essential tool for managers, enabling them to monitor and analyze key performance metrics in real-time. It helps identify performance issues, track progress against targets, and make informed decisions to drive business success.
 
 
-Check out the [Dashboard](dashboard.pdf)!
+<a href="dashboard.pdf" target="_blank">View Dashboard</a>
