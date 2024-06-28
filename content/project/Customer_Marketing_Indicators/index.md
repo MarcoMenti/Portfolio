@@ -1,5 +1,5 @@
 ---
-title: Customer Marketing Indicators
+title: Customer Marketing Indicators Dashboard
 summary: An in-depth dashboard analyzing customer data using RFM segmentation. It provides insights into customer demographics, purchase behaviors, and segmentation, aiding in strategic marketing and customer relationship management.
 tags:
   - Dashboards
@@ -46,4 +46,4 @@ The Customer Marketing Indicators dashboard provides an in-depth analysis of cus
 This dashboard is an essential tool for marketing managers, enabling detailed and practical analysis of customer data. It helps identify patterns, predict trends, and make strategic decisions to enhance customer engagement and optimize marketing efforts.
 
 
-![Dashboard](featured.png)
+Check out the [Dashboard](dashboard.pdf)!

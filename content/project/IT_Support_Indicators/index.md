@@ -51,4 +51,4 @@ The IT Support Indicators dashboard provides a detailed analysis of IT support t
 This dashboard is an essential tool for IT managers, enabling detailed and practical analysis of support ticket data. It helps identify patterns, improve service quality, enhance customer satisfaction, and optimize IT support operations.
 
 
-![Dashboard](featured.png)
+Check out the [Dashboard](dashboard.pdf)!
