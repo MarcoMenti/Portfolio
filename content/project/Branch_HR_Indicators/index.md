@@ -33,5 +33,4 @@ The Branch HR Indicators dashboard provides a detailed analysis of human resourc
 **Purpose:**
 This dashboard is an essential tool for human resource managers, allowing in-depth and practical analysis of key HR indicators. It helps identify patterns, predict trends, and make strategic decisions to improve people management and organizational health.
 
-
-Check out the [Dashboard](dashboard.pdf)!
+<a href="dashboard.pdf" target="_blank">View Dashboard</a>
