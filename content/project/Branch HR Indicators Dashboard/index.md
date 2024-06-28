@@ -4,5 +4,5 @@ summary: A comprehensive dashboard analyzing key human resource activities over 
 tags:
   - Dashboards
 date: 2022-01-01
-external_link: content.md
+external_link: project/Branch HR Indicators Dashboard/content.md
 ---
