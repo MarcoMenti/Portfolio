@@ -4,7 +4,7 @@ summary: An advanced automation script designed to generate bank slips for Itau 
 tags:
   - Python
 date: 2024-07-04
-external_link: http://github.com
+external_link: 
 ---
 ### Script Description: Itau Bank Slip Automation
 
