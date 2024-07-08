@@ -18,7 +18,7 @@ role: ''
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Data Analyst with extensive experience in data analysis, BI, and data engineering. Skilled in Power BI, SQL, Python, Spark, AWS, and Azure, I have delivered impactful insights at Data Mundo and Monjuá. Passionate about solving complex problems with data, I excel in collaborative environments.
 
 #interests:
 #- Artificial Intelligence
