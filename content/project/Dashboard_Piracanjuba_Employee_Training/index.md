@@ -3,7 +3,7 @@ title: Piracanjuba Employee Training Dashboard
 summary: A dynamic dashboard created for Piracanjuba to monitor and analyze employee engagement and performance in a specialized training course. It provides insights into enrollment, module completion, and overall progress, aiding in the evaluation of the training program's effectiveness.
 tags:
   - Dashboards
-date: 2024-07-05
+date: 2024-02-05
 external_link: 
 ---
 ### Dashboard Description: Piracanjuba Employee Training Dashboard

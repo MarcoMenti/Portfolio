@@ -55,6 +55,14 @@ item:
     organization_url: 
     title: Artificial Intelligence
     url:
+  - certificate_url: https://www.udemy.com/certificate/UC-9fa6710b-30ae-43bc-b62f-4ea59a23520a/
+    date_end: ''
+    date_start: '2024-07-01'
+    description: 
+    organization: Udemy
+    organization_url: 
+    title: Data Analysis with Pandas
+    url:    
 
 design:
   columns: '1'
