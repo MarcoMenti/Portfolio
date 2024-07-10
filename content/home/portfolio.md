@@ -32,7 +32,7 @@ content:
       tag: Dashboards
     - name: Data Integration and Manipulation through APIs
       tag: API
-    - name: Python Automations
+    - name: Python
       tag: Python
 
 design:
