@@ -17,7 +17,7 @@ jobs:
   gitleaks:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Instalar e rodar gitleaks
         run: |
           VERSION=8.21.2
