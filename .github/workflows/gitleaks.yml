@@ -1,0 +1,26 @@
+name: Secret scan (gitleaks)
+
+# Varre os ARQUIVOS ATUAIS em busca de segredos (chaves AWS, tokens, senhas)
+# antes que virem parte do repo. Usa --no-git de proposito: varrer o historico
+# pode dar eterno-vermelho por chaves antigas (rotacao resolve isso, nao o scan).
+# Aqui garantimos que nenhum segredo NOVO entre em arquivo versionado.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  gitleaks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar e rodar gitleaks
+        run: |
+          VERSION=8.21.2
+          curl -sSL "https://github.com/gitleaks/gitleaks/releases/download/v${VERSION}/gitleaks_${VERSION}_linux_x64.tar.gz" -o gitleaks.tar.gz
+          tar -xzf gitleaks.tar.gz gitleaks
+          ./gitleaks detect --no-git --redact --verbose --exit-code 1
