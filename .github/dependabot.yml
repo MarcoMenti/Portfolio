@@ -8,4 +8,12 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: weekly
+      interval: monthly
+    open-pull-requests-limit: 3
+    groups:
+      # Sem isto o Dependabot abre UM PR por action por repo — foi assim que o
+      # mesmo bump de setup-python virou 8 PRs identicos espalhados nos repos.
+      # Agrupado, vira 1 PR por repo.
+      todas-as-actions:
+        patterns:
+          - "*"
